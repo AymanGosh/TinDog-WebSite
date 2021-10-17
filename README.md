@@ -1,3 +1,3 @@
-# TinDog-WebSite (Just the UI)
+# TinDog-WebSite (UI only)
 First version - html+css+bootstrap (mobile friendly )
  https://aymangosh.github.io/TinDog-WebSite/
